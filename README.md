@@ -208,7 +208,10 @@ Data Analyst | SQL | Power BI | Python | Excel
 
 <img width="1010" height="807" alt="ER-Diagram" src="https://github.com/user-attachments/assets/f5fa4d61-ec27-4f5d-bc29-2bd590f9273f" />
 
+---
 <img width="862" height="472" alt="EI-4" src="https://github.com/user-attachments/assets/4e79d087-86a8-489a-8b3b-b2c7fe559d37" />
+
+---
 <img width="700" height="503" alt="EI-3" src="https://github.com/user-attachments/assets/0ee7282a-c9aa-4b78-95d3-657dd73b09b2" />
 <img width="1206" height="482" alt="EI-2-2" src="https://github.com/user-attachments/assets/184dcf7d-65a7-4c61-b132-7102144c68fd" />
 <img width="1206" height="715" alt="EI-2-1" src="https://github.com/user-attachments/assets/bf8f43f3-8b44-4907-8726-80fd9d61337a" />
