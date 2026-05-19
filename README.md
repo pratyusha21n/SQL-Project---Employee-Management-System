@@ -184,6 +184,16 @@ Through this project, I gained hands-on experience in:
 * SQL Problem Solving
 
 ---
+# Challenges Faced
+
+* Designing normalized database schema for multiple related tables
+* Establishing proper Primary Key and Foreign Key relationships
+* Handling missing, duplicate, and inconsistent employee records
+* Writing complex JOIN, Subquery, and CTE-based SQL queries
+* Ensuring data integrity and accurate payroll reporting
+* Optimizing query performance for analytical business insights
+
+---
 
 # Future Improvements
 
@@ -213,27 +223,59 @@ Data Analyst | SQL | Power BI | Python | Excel
 
 ---
 <img width="700" height="503" alt="EI-3" src="https://github.com/user-attachments/assets/0ee7282a-c9aa-4b78-95d3-657dd73b09b2" />
+
+---
 <img width="1206" height="482" alt="EI-2-2" src="https://github.com/user-attachments/assets/184dcf7d-65a7-4c61-b132-7102144c68fd" />
+
+---
 <img width="1206" height="715" alt="EI-2-1" src="https://github.com/user-attachments/assets/bf8f43f3-8b44-4907-8726-80fd9d61337a" />
+
+---
 <img width="755" height="320" alt="EI-1" src="https://github.com/user-attachments/assets/49a29028-1c52-4022-9784-c504696510ce" />
 
+---
 <img width="813" height="462" alt="q-3" src="https://github.com/user-attachments/assets/0219146b-bbdc-4672-a958-fd7df9b0482d" />
+
+---
 <img width="662" height="432" alt="q-2" src="https://github.com/user-attachments/assets/4c011528-6213-4651-bc2b-de650245f37f" />
+
+---
 <img width="683" height="317" alt="q-1" src="https://github.com/user-attachments/assets/e6515c34-541a-4c26-a4cd-07ff1f15899a" />
 
+---
 <img width="1022" height="657" alt="p-4" src="https://github.com/user-attachments/assets/f67efdf2-2c6c-4a45-853e-67f4afa2c6fb" />
+
+---
 <img width="1101" height="442" alt="p-3" src="https://github.com/user-attachments/assets/463c637c-b7e1-4e70-a304-d74f9aa10396" />
+
+---
 <img width="1115" height="492" alt="p-2" src="https://github.com/user-attachments/assets/80b3c157-a6a0-481e-b55f-e7160cb48f4c" />
+
+---
 <img width="1072" height="238" alt="p-1" src="https://github.com/user-attachments/assets/7693cf83-98de-4db6-8bc0-dfdc7adf52a1" />
 
+---
 <img width="1165" height="727" alt="l-5" src="https://github.com/user-attachments/assets/0c578f17-f34d-4363-9544-eee8990781b5" />
+
+---
 <img width="1047" height="323" alt="l-4" src="https://github.com/user-attachments/assets/8d807fbd-ad9e-411b-b2a3-dc10d91faeb9" />
+
+---
 <img width="877" height="637" alt="l-3" src="https://github.com/user-attachments/assets/26697c2c-70b4-4e3a-b528-7e639e96cd59" />
+
+---
 <img width="1102" height="651" alt="l-2" src="https://github.com/user-attachments/assets/65286cbb-4eb4-4641-8e0a-7ae0e749a9c2" />
+
+---
 <img width="847" height="352" alt="l-1" src="https://github.com/user-attachments/assets/1ebf4f08-21b8-4cd6-adb7-98be43a6f003" />
 
+---
 <img width="1216" height="472" alt="j-4" src="https://github.com/user-attachments/assets/73259eeb-4c26-4809-833f-f7af6b9b9487" />
+
+---
 <img width="927" height="406" alt="j-3" src="https://github.com/user-attachments/assets/d5f6b48f-9bbd-4416-8da1-7fe6555cbcac" />
+
+---
 <img width="953" height="691" alt="j-2" src="https://github.com/user-attachments/assets/0ff40a67-e760-4720-adaa-723df75d4697" />
 <img width="892" height="716" alt="j-1" src="https://github.com/user-attachments/assets/242cb97f-a63d-4362-8a3b-144ba44824dd" />
 
