@@ -1,4 +1,4 @@
-# Employee Management System (EMS) – SQL Project
+# # Employee Management System (EMS) – MySQL Database Project
 
 ## Overview
 
